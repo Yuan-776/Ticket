@@ -1,0 +1,14 @@
+/Users/yuangao/Documents/WCTC/Net database/Ticket/bin/Debug/net6.0/Ticket
+/Users/yuangao/Documents/WCTC/Net database/Ticket/bin/Debug/net6.0/Ticket.deps.json
+/Users/yuangao/Documents/WCTC/Net database/Ticket/bin/Debug/net6.0/Ticket.runtimeconfig.json
+/Users/yuangao/Documents/WCTC/Net database/Ticket/bin/Debug/net6.0/Ticket.dll
+/Users/yuangao/Documents/WCTC/Net database/Ticket/bin/Debug/net6.0/Ticket.pdb
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.AssemblyInfoInputs.cache
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.AssemblyInfo.cs
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.csproj.CoreCompileInputs.cache
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.dll
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/refint/Ticket.dll
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.pdb
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/Ticket.genruntimeconfig.cache
+/Users/yuangao/Documents/WCTC/Net database/Ticket/obj/Debug/net6.0/ref/Ticket.dll
